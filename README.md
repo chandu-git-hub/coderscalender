@@ -11,14 +11,14 @@ One click :
   
 ## Installation For Developers
 
-Install kontest-reminder with npm
+Install CodersCalendar with npm
 
 
   npm install
   cd src
 ```
 
-Running kontest-reminder with npm
+Running Coderscalendar with npm
  
 For **development:**
 ```bash 
