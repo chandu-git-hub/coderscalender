@@ -1,4 +1,4 @@
-# Kontest Reminder
+# Coders Calendar
 
 
 ## Features
